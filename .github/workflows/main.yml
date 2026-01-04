@@ -1,4 +1,4 @@
-name: deploy EvelynShiMin
+name: deploy FelixWong
 
 on:
   push:
